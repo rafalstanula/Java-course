@@ -1,0 +1,1 @@
+This repository contains some tasks form Java course at Software Development Academy
