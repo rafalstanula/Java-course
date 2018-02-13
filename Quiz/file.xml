@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<questions>
+    <question content="Ile lat ma pies Toffik?" correctAnswer="b" nr="1">
+        <a content="1"/>
+        <b content="2"/>
+        <c content="4"/>
+    </question>
+    <question content="Ile lat ma pies Portos?" correctAnswer="a" nr="2">
+        <a content="1"/>
+        <b content="8"/>
+        <c content="4"/>
+    </question>
+    <question content="Ile lat ma pies Tytus?" correctAnswer="a" nr="3">
+        <a content="4"/>
+        <b content="5"/>
+        <c content="4"/>
+    </question>
+    <question content="Ile lat ma pies Reksio?" correctAnswer="c" nr="4">
+        <a content="11"/>
+        <b content="5"/>
+        <c content="4"/>
+    </question>
+    <question content="Ile lat ma pies Dexter?" correctAnswer="c" nr="5">
+        <a content="1"/>
+        <b content="5"/>
+        <c content="4"/>
+    </question>
+</questions>

@@ -1,0 +1,21 @@
+- Abstract factory - done
+- Builder - done
+- Factory method - done
+- Prototype - done
+- Singleton - done
+
+- Adapter - done
+- Bridge
+- Composite - done
+- Decorator - done
+- Facade - done
+
+- Chain of responsibility - done
+- Command - done
+- Interpreter
+- Iterator - done
+- Mediator
+- Memento - done
+- Observer - done
+- State
+- Strategy - done
